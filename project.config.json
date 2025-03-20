@@ -1,0 +1,33 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "logistics-mp",
+  "description": "南康物流",
+  "appid": "wx35cb371ada97c333",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false,
+    "ignoreUploadUnusedFiles": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "packNpmRelationList": []
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.7.9",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
